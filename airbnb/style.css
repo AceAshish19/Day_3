@@ -1,0 +1,294 @@
+*{
+    margin: 0;
+ 
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1200px;
+    height: 80px;
+    position: relative;
+   
+}
+.logo{
+   font-size: 46px;
+   margin-left: 45px;
+   color: red;
+}
+.main{
+    margin: 5px auto;
+    margin-left: 320px;
+}
+.home{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+.nav{
+  width: 398px;
+   height: 47px;
+ position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 18px;
+    border: 1px solid black;
+    padding-right:-598px ;
+    
+}
+.nav{
+    margin-left: 30%;
+}
+ .btn1{
+    width: 98px;
+    font-size: 16px;
+    margin: 5px;
+    border: none;
+    background-color: transparent;
+} 
+.btn2{
+    width: 98px;
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+} 
+span{
+    margin-right: 9px;
+}
+.btn3{
+    display: flex;
+    align-items: center;
+    width: 98px;
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+} 
+.bt{
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    background-color: rgb(237, 35, 35);
+    right: 0;
+    border-radius: 50%;
+    margin: 6px 15px;
+  align-items: center;
+  
+
+
+}
+.sarch {
+    margin: 15px;
+   z-index: 5;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    width: 150px;
+    font-size: 18px;
+    border: none;
+    background-color: transparent;
+} 
+.profile{
+ position: relative;
+    margin-right:-220px ;
+   padding: 8px 20px;
+}
+.log{
+    margin-left: 10px;
+}
+.logo3{
+margin-right: -5px;
+}
+.user{
+    position: absolute;
+    right:-45px;
+    top:-9px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 7px 20px 7px 20px;
+    border-radius: 18px;
+}
+.airbnb{
+    font-size: 21px;
+    color: red;
+    margin-top: -55px;
+    margin-left:95px ;
+
+}
+.border{
+    border-bottom: 1px solid rgb(120, 114, 114);
+    margin-top: 30px;
+}
+.loggs{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 28px;
+    margin-top: 45px;
+    font-weight: 100;
+}
+.paragraph{
+    display: flex;
+    font-size: 10px;
+   margin-left: -12px;
+   margin-top: -8px;
+}
+.smallbtn{
+    width: 99px;
+    height: 48px;
+    font-size: 16px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-radius: 14px;
+    justify-content: space-evenly
+}
+.bigbtn{
+    width: 600px;
+    height: 58px;
+    font-size: 18px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-radius: 14px;
+    margin: 30px auto;
+    
+}
+
+.butn{
+    padding-left: 14px;
+    font-size: 28px;
+    padding-left: 344px;}
+
+.a1{
+    padding-left: 74px;
+}
+
+.a2{
+    padding-left: 46px;
+}
+
+.a3{
+    padding-left: 48px;
+}
+
+.a4{
+    padding-left: 48px;
+}
+
+.a5{
+    padding-left: 58px;
+}
+
+.a6{
+    padding-left: 64px;
+}
+
+.a7{
+    
+   padding-left: 53px;
+}
+
+.a8{
+    
+    padding-left: 44px;
+}
+
+.a9{
+    
+    padding-left: 68px;
+}
+
+.a10{
+    
+    padding-left: 56px;
+}
+
+.a11{
+    
+    padding-left: 56px;
+}
+
+.a12{
+    
+    padding-left: 42px;
+}
+
+.a13{
+    
+    padding-left: 34px;
+}
+
+.house{
+    padding-left: -15px;
+}
+
+.room{
+    display: flex;
+    gap: 33px;
+    margin-top: 15px;
+    margin-left: 65px;
+    position: relative;
+}
+.room1{
+    width: 370px;
+    height: 470px; 
+    border: 2px solid black;
+    position: relative;
+}
+
+.box1{
+    background-image: url(d8d629d7-9307-4b24-a8ae-b01d95e36124.webp);
+    height: 290px;
+    width: 320px;
+    background-size: cover;
+    border-radius: 14px;
+ 
+}
+
+.info1{
+    position: absolute;
+    bottom: -35%;
+}
+
+.info1 h3{
+    font-size: 14px;
+    font-weight: 600;
+}
+.p1{
+    font-size: 14px;
+}
+.in2{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.box2{
+    background-image: url(eae1b830-afa2-4b88-a3a8-84a5774d4c62.webp);
+    height: 290px;
+    width: 320px;
+    background-size: cover;
+    border-radius: 14px;
+ 
+}
+
+.box3{
+    background-image: url(a860ca22-4c29-45b8-a933-e7ee53a6cdea.webp);
+    height: 290px;
+    width: 320px;
+    background-size: cover;
+    border-radius: 14px;
+ 
+}
+.box4{
+    background-image: url(85395d11-63f2-4f59-9c0d-753d41cd34a1.webp);
+    height: 290px;
+    width: 320px;
+    background-size: cover;
+    border-radius: 14px;
+ 
+}
